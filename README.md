@@ -1,6 +1,6 @@
 ## Widevine Modular PSSH Decoder
  
-Dumps the PSSH header from MP4 / MP4 ISO Base Media File Format / DASH Fragments
+Python based PSSH header dumper for MP4 / MP4 ISO Base Media File Format / DASH Fragments
 
 ## Usage
 
