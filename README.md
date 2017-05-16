@@ -6,7 +6,7 @@ Python based PSSH header dumper for MP4 / MP4 ISO Base Media File Format / DASH 
 
 ### Script
 
-    wvpsshdump myfile.mp4 
+    pywvpsshdump myfile.mp4 
 
 Output:
 
